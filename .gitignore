@@ -1,0 +1,29 @@
+# 仮想環境
+.venv/
+venv/
+
+# Pythonキャッシュ
+__pycache__/
+*.py[cod]
+
+# dotenv環境ファイル
+.env
+
+# VSCode設定
+.vscode/
+
+# OSごみファイル
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ログや一時ファイル
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyInstaller関連
+build/
+dist/
+*.spec
